@@ -1,362 +1,244 @@
-[
-  {
-    "id": 1991,
-    "sources": [
-      {
-        "file": "https://rumble.com/hls-vod/6rrkmx/playlist.m3u8",
-        "label": "Latino"
-      }
-    ]
-  },
-  {
-    "id": 1265623,
-    "sources": [
-      {
-        "file": "https://rumble.com/hls-vod/6rrkvf/playlist.m3u8",
-        "label": "Latino"
-      }
-    ]
-  },
-  {
-    "id": 13490,
-    "sources": [
-      {
-        "file": "https://rumble.com/hls-vod/6qveoh/playlist.m3u8",
-        "label": "Latino"
-      }
-    ]
-  },
-  {
-    "id": 1103621,
-    "sources": [
-      {
-        "file": "https://rumble.com/hls-vod/6rpxrj/playlist.m3u8",
-        "label": "Latino"
-      }
-    ]
-  },
-  {
-    "id": 10829,
-    "sources": [
-      {
-        "file": "https://rumble.com/hls-vod/6qw5nb/playlist.m3u8",
-        "label": "Latino"
-      }
-    ]
-  },
-  {
-    "id": 9532,
-    "sources": [
-      {
-        "file": "https://rumble.com/hls-vod/6rotl1/playlist.m3u8",
-        "label": "Latino"
-      }
-    ]
-  },
-  {
-    "id": 9358,
-    "sources": [
-      {
-        "file": "https://rumble.com/hls-vod/6rou99/playlist.m3u8",
-        "label": "Latino"
-      }
-    ]
-  },
-  {
-    "id": 9286,
-    "sources": [
-      {
-        "file": "https://rumble.com/hls-vod/6rourr/playlist.m3u8",
-        "label": "Latino"
-      }
-    ]
-  },
-  {
-    "id": 19912,
-    "sources": [
-      {
-        "file": "https://rumble.com/hls-vod/6rov35/playlist.m3u8",
-        "label": "Latino"
-      }
-    ]
-  },
-  {
-    "id": 55779,
-    "sources": [
-      {
-        "file": "https://rumble.com/hls-vod/6rov8b/playlist.m3u8",
-        "label": "Latino"
-      }
-    ]
-  },
-  {
-    "id": 1145725,
-    "sources": [
-      {
-        "file": "https://rumble.com/hls-vod/6rogj7/playlist.m3u8",
-        "label": "Latino"
-      }
-    ]
-  },
-  {
-    "id": 11026,
-    "sources": [
-      {
-        "file": "https://rumble.com/hls-vod/6r18ob/playlist.m3u8",
-        "label": "Latino"
-      }
-    ]
-  },
-  {
-    "id": 11778,
-    "sources": [
-      {
-        "file": "https://rumble.com/hls-vod/6qnc4f/playlist.m3u8",
-        "label": "Latino"
-      }
-    ]
-  },
-  {
-    "id": 972533,
-    "sources": [
-      {
-        "file": "https://rumble.com/hls-vod/6ro5ft/playlist.m3u8",
-        "label": "Latino"
-      }
-    ]
-  },
-  {
-    "id": 1362608,
-    "sources": [
-      {
-        "file": "https://rumble.com/hls-vod/6rodmj/playlist.m3u8",
-        "label": "Latino"
-      }
-    ]
-  },
-  {
-    "id": 668489,
-    "sources": [
-      {
-        "file": "https://rumble.com/hls-vod/6qtm2t/playlist.m3u8",
-        "label": "Latino"
-      }
-    ]
-  },
-  {
-    "id": 1233069,
-    "sources": [
-      {
-        "file": "https://rumble.com/hls-vod/6qsxcr/playlist.m3u8",
-        "label": "Latino"
-      }
-    ]
-  },
-  {
-    "id": 50698,
-    "sources": [
-      {
-        "file": "https://rumble.com/hls-vod/6rt9ln/playlist.m3u8",
-        "label": "Latino"
-      }
-    ]
-  },
-  {
-    "id": 257094,
-    "sources": [
-      {
-        "file": "https://rumble.com/hls-vod/6ro37t/playlist.m3u8",
-        "label": "Latino"
-      }
-    ]
-  },
-  {
-    "id": 1142364,
-    "sources": [
-      {
-        "file": "https://rumble.com/hls-vod/6qvegb/playlist.m3u8",
-        "label": "Latino"
-      }
-    ]
-  },
-  {
-    "id": 1011477,
-    "sources": [
-      {
-        "file": "https://rumble.com/hls-vod/6s1lnt/playlist.m3u8",
-        "label": "Latino"
-      }
-    ]
-  },
-  {
-    "id": 1001414,
-    "sources": [
-      {
-        "file": "https://rumble.com/hls-vod/6rpvtj/playlist.m3u8",
-        "label": "Latino"
-      }
-    ]
-  },
-  {
-    "id": 682507,
-    "sources": [
-      {
-        "file": "https://rumble.com/hls-vod/6qvex9/playlist.m3u8",
-        "label": "Latino"
-      }
-    ]
-  },
-  {
-    "id": 1098006,
-    "sources": [
-      {
-        "file": "https://rumble.com/hls-vod/6ro3t5/playlist.m3u8",
-        "label": "Latino"
-      }
-    ]
-  },
-  {
-    "id": 1284120,
-    "sources": [
-      {
-        "file": "https://rumble.com/hls-vod/6ro46r/playlist.m3u8",
-        "label": "Latino"
-      }
-    ]
-  },
-  {
-    "id": 552524,
-    "sources": [
-      {
-        "file": "https://rumble.com/hls-vod/6rqkkr/playlist.m3u8",
-        "label": "Latino"
-      }
-    ]
-  },
-  {
-    "id": 551332,
-    "sources": [
-      {
-        "file": "https://rumble.com/hls-vod/6qndnd/playlist.m3u8",
-        "label": "Latino"
-      }
-    ]
-  },
-  {
-    "id": 60670,
-    "sources": [
-      {
-        "file": "https://rumble.com/hls-vod/6pzh53/playlist.m3u8",
-        "label": "Latino"
-      }
-    ]
-  },
-  {
-    "id": 104859,
-    "sources": [
-      {
-        "file": "https://rumble.com/hls-vod/6rpx5h/playlist.m3u8",
-        "label": "Latino"
-      }
-    ]
-  },
-  {
-    "id": 1323784,
-    "sources": [
-      {
-        "file": "https://rumble.com/hls-vod/6qz1lb/playlist.m3u8",
-        "label": "Latino"
-      }
-    ]
-  },
-  {
-    "id": 1199840,
-    "sources": [
-      {
-        "file": "https://rumble.com/hls-vod/6ro4jz/playlist.m3u8",
-        "label": "Latino"
-      }
-    ]
-  },
-  {
-    "id": 897160,
-    "sources": [
-      {
-        "file": "https://rumble.com/hls-vod/6rpyb3/playlist.m3u8",
-        "label": "Latino"
-      }
-    ]
-  },
-  {
-    "id": 1276073,
-    "sources": [
-      {
-        "file": "https://rumble.com/hls-vod/6qvelz/playlist.m3u8",
-        "label": "Latino"
-      }
-    ]
-  },
-  {
-    "id": 508947,
-    "sources": [
-      {
-        "file": "https://rumble.com/hls-vod/6r181b/playlist.m3u8",
-        "label": "Latino"
-      }
-    ]
-  },
-  {
-    "id": 146216,
-    "sources": [
-      {
-        "file": "https://rumble.com/hls-vod/6r181z/playlist.m3u8",
-        "label": "Latino"
-      }
-    ]
-  },
-  {
-    "id": 23169,
-    "sources": [
-      {
-        "file": "https://rumble.com/hls-vod/6qnb85/playlist.m3u8",
-        "label": "Latino"
-      }
-    ]
-  },
-  {
-    "id": 1275779,
-    "sources": [
-      {
-        "file": "https://rumble.com/hls-vod/6rrk8j/playlist.m3u8",
-        "label": "Latino"
-      }
-    ]
-  },
-  {
-    "id": 986056,
-    "sources": [
-      {
-        "file": "https://rumble.com/hls-vod/6qvhiz/playlist.m3u8",
-        "label": "Latino"
-      }
-    ]
-  },
-  {
-    "id": 250538,
-    "sources": [
-      {
-        "file": "https://rumble.com/hls-vod/6rrpc7/playlist.m3u8",
-        "label": "Latino"
-      }
-    ]
-  },
-  {
-    "id": 1232546,
-    "sources": [
-      {
-        "file": "https://rumble.com/hls-vod/6ro3zd/playlist.m3u8",
-        "label": "Latino"
-      }
-    ]
-  }
-]
+{
+  "version": 1,
+  "peliculas": [
+    {
+      "id": 345,
+      "sources": [
+        { "file": "https://1a-1791.com/video/fww1/32/s8/2/I/q/R/6/IqR6z.aaa.mp4", "label": "Latino" },
+        { "file": "https://1a-1791.com/video/fww1/32/s8/2/I/q/R/6/IqR6z.aaa.mp4", "label": "Castellano" },
+        { "file": "https://1a-1791.com/video/fww1/32/s8/2/I/q/R/6/IqR6z.aaa.mp4", "label": "Subtitulado" }
+      ]
+    },
+    {
+      "id": 550,
+      "sources": [
+        { "file": "https://test-videos.co.uk/vids/bigbuckbunny/mp4/h264/720/Big_Buck_Bunny_720_10s_1MB.mp4", "label": "Latino" }
+      ]
+    },
+    {
+      "id": 27205,
+      "sources": [
+        { "file": "https://test-videos.co.uk/vids/sintel/mp4/h264/720/Sintel_720_10s_1MB.mp4", "label": "Latino" },
+        { "file": "https://test-videos.co.uk/vids/tearsofsteel/mp4/h264/720/Tears_of_Steel_720_10s_1MB.mp4", "label": "Castellano" }
+      ]
+    },
+    {
+      "id": 155,
+      "sources": [
+        { "file": "https://test-videos.co.uk/vids/bigbuckbunny/mp4/h264/720/Big_Buck_Bunny_720_10s_1MB.mp4", "label": "Latino" }
+      ]
+    },
+    {
+      "id": 13,
+      "sources": [
+        { "file": "https://test-videos.co.uk/vids/bigbuckbunny/mp4/h264/720/Big_Buck_Bunny_720_10s_1MB.mp4", "label": "Latino" },
+        { "file": "https://test-videos.co.uk/vids/sintel/mp4/h264/720/Sintel_720_10s_1MB.mp4", "label": "Castellano" }
+      ]
+    },
+    {
+      "id": 680,
+      "sources": [
+        { "file": "https://test-videos.co.uk/vids/bigbuckbunny/mp4/h264/720/Big_Buck_Bunny_720_10s_1MB.mp4", "label": "Latino" }
+      ]
+    },
+    {
+      "id": 278,
+      "sources": [
+        { "file": "https://test-videos.co.uk/vids/bigbuckbunny/mp4/h264/720/Big_Buck_Bunny_720_10s_1MB.mp4", "label": "Latino" },
+        { "file": "https://test-videos.co.uk/vids/sintel/mp4/h264/720/Sintel_720_10s_1MB.mp4", "label": "Castellano" }
+      ]
+    },
+    {
+      "id": 238,
+      "sources": [
+        { "file": "https://test-videos.co.uk/vids/bigbuckbunny/mp4/h264/720/Big_Buck_Bunny_720_10s_1MB.mp4", "label": "Latino" }
+      ]
+    },
+    {
+      "id": 424,
+      "sources": [
+        { "file": "https://test-videos.co.uk/vids/bigbuckbunny/mp4/h264/720/Big_Buck_Bunny_720_10s_1MB.mp4", "label": "Latino" }
+      ]
+    },
+    {
+      "id": 122,
+      "sources": [
+        { "file": "https://test-videos.co.uk/vids/bigbuckbunny/mp4/h264/720/Big_Buck_Bunny_720_10s_1MB.mp4", "label": "Latino" }
+      ]
+    },
+    {
+      "id": 603,
+      "sources": [
+        { "file": "https://test-videos.co.uk/vids/bigbuckbunny/mp4/h264/720/Big_Buck_Bunny_720_10s_1MB.mp4", "label": "Latino" }
+      ]
+    },
+    {
+      "id": 862,
+      "sources": [
+        { "file": "https://test-videos.co.uk/vids/bigbuckbunny/mp4/h264/720/Big_Buck_Bunny_720_10s_1MB.mp4", "label": "Latino" }
+      ]
+    }
+  ],
+  "series": [
+    {
+      "id": 1399,
+      "seasons": [
+        {
+          "number": 1,
+          "episodes": [
+            {
+              "number": 1,
+              "sources": [
+                { "file": "https://test-videos.co.uk/vids/bigbuckbunny/mp4/h264/720/Big_Buck_Bunny_720_10s_1MB.mp4", "label": "Latino" },
+                { "file": "https://test-videos.co.uk/vids/sintel/mp4/h264/720/Sintel_720_10s_1MB.mp4", "label": "Castellano" }
+              ]
+            },
+            {
+              "number": 2,
+              "sources": [
+                { "file": "https://test-videos.co.uk/vids/bigbuckbunny/mp4/h264/720/Big_Buck_Bunny_720_10s_1MB.mp4", "label": "Latino" }
+              ]
+            },
+            {
+              "number": 3,
+              "sources": [
+                { "file": "https://test-videos.co.uk/vids/bigbuckbunny/mp4/h264/720/Big_Buck_Bunny_720_10s_1MB.mp4", "label": "Latino" }
+              ]
+            },
+            {
+              "number": 4,
+              "sources": [
+                { "file": "https://test-videos.co.uk/vids/bigbuckbunny/mp4/h264/720/Big_Buck_Bunny_720_10s_1MB.mp4", "label": "Latino" }
+              ]
+            },
+            {
+              "number": 5,
+              "sources": [
+                { "file": "https://test-videos.co.uk/vids/bigbuckbunny/mp4/h264/720/Big_Buck_Bunny_720_10s_1MB.mp4", "label": "Latino" }
+              ]
+            }
+          ]
+        },
+        {
+          "number": 2,
+          "episodes": [
+            {
+              "number": 1,
+              "sources": [
+                { "file": "https://test-videos.co.uk/vids/bigbuckbunny/mp4/h264/720/Big_Buck_Bunny_720_10s_1MB.mp4", "label": "Latino" }
+              ]
+            },
+            {
+              "number": 2,
+              "sources": [
+                { "file": "https://test-videos.co.uk/vids/bigbuckbunny/mp4/h264/720/Big_Buck_Bunny_720_10s_1MB.mp4", "label": "Latino" }
+              ]
+            },
+            {
+              "number": 3,
+              "sources": [
+                { "file": "https://test-videos.co.uk/vids/bigbuckbunny/mp4/h264/720/Big_Buck_Bunny_720_10s_1MB.mp4", "label": "Latino" }
+              ]
+            }
+          ]
+        }
+      ]
+    },
+    {
+      "id": 66732,
+      "seasons": [
+        {
+          "number": 1,
+          "episodes": [
+            {
+              "number": 1,
+              "sources": [
+                { "file": "https://test-videos.co.uk/vids/bigbuckbunny/mp4/h264/720/Big_Buck_Bunny_720_10s_1MB.mp4", "label": "Latino" },
+                { "file": "https://test-videos.co.uk/vids/sintel/mp4/h264/720/Sintel_720_10s_1MB.mp4", "label": "Subtitulado" }
+              ]
+            },
+            {
+              "number": 2,
+              "sources": [
+                { "file": "https://test-videos.co.uk/vids/bigbuckbunny/mp4/h264/720/Big_Buck_Bunny_720_10s_1MB.mp4", "label": "Latino" }
+              ]
+            },
+            {
+              "number": 3,
+              "sources": [
+                { "file": "https://test-videos.co.uk/vids/bigbuckbunny/mp4/h264/720/Big_Buck_Bunny_720_10s_1MB.mp4", "label": "Latino" }
+              ]
+            }
+          ]
+        },
+        {
+          "number": 2,
+          "episodes": [
+            {
+              "number": 1,
+              "sources": [
+                { "file": "https://test-videos.co.uk/vids/bigbuckbunny/mp4/h264/720/Big_Buck_Bunny_720_10s_1MB.mp4", "label": "Latino" }
+              ]
+            },
+            {
+              "number": 2,
+              "sources": [
+                { "file": "https://test-videos.co.uk/vids/bigbuckbunny/mp4/h264/720/Big_Buck_Bunny_720_10s_1MB.mp4", "label": "Latino" }
+              ]
+            }
+          ]
+        }
+      ]
+    },
+    {
+      "id": 1396,
+      "seasons": [
+        {
+          "number": 1,
+          "episodes": [
+            {
+              "number": 1,
+              "sources": [
+                { "file": "https://test-videos.co.uk/vids/bigbuckbunny/mp4/h264/720/Big_Buck_Bunny_720_10s_1MB.mp4", "label": "Latino" }
+              ]
+            },
+            {
+              "number": 2,
+              "sources": [
+                { "file": "https://test-videos.co.uk/vids/bigbuckbunny/mp4/h264/720/Big_Buck_Bunny_720_10s_1MB.mp4", "label": "Latino" }
+              ]
+            }
+          ]
+        }
+      ]
+    },
+    {
+      "id": 60625,
+      "seasons": [
+        {
+          "number": 1,
+          "episodes": [
+            {
+              "number": 1,
+              "sources": [
+                { "file": "https://test-videos.co.uk/vids/bigbuckbunny/mp4/h264/720/Big_Buck_Bunny_720_10s_1MB.mp4", "label": "Latino" }
+              ]
+            },
+            {
+              "number": 2,
+              "sources": [
+                { "file": "https://test-videos.co.uk/vids/bigbuckbunny/mp4/h264/720/Big_Buck_Bunny_720_10s_1MB.mp4", "label": "Latino" }
+              ]
+            },
+            {
+              "number": 3,
+              "sources": [
+                { "file": "https://test-videos.co.uk/vids/bigbuckbunny/mp4/h264/720/Big_Buck_Bunny_720_10s_1MB.mp4", "label": "Latino" }
+              ]
+            }
+          ]
+        }
+      ]
+    }
+  ]
+}
