@@ -1,6 +1,60 @@
 {
   "version": 1,
   "peliculas": [
+     {
+    "id": 1991,
+    "sources": [
+      {
+        "file": "https://rumble.com/hls-vod/6rrkmx/playlist.m3u8",
+        "label": "Latino"
+      }
+    ]
+  },
+  {
+    "id": 1265623,
+    "sources": [
+      {
+        "file": "https://rumble.com/hls-vod/6rrkvf/playlist.m3u8",
+        "label": "Latino"
+      }
+    ]
+  },
+  {
+    "id": 13490,
+    "sources": [
+      {
+        "file": "https://rumble.com/hls-vod/6qveoh/playlist.m3u8",
+        "label": "Latino"
+      }
+    ]
+  },
+  {
+    "id": 1103621,
+    "sources": [
+      {
+        "file": "https://rumble.com/hls-vod/6rpxrj/playlist.m3u8",
+        "label": "Latino"
+      }
+    ]
+  },
+  {
+    "id": 10829,
+    "sources": [
+      {
+        "file": "https://rumble.com/hls-vod/6qw5nb/playlist.m3u8",
+        "label": "Latino"
+      }
+    ]
+  },
+  {
+    "id": 9532,
+    "sources": [
+      {
+        "file": "https://rumble.com/hls-vod/6rotl1/playlist.m3u8",
+        "label": "Latino"
+      }
+    ]
+  },
     {
       "id": 1101383,
       "sources": [
